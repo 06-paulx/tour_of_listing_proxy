@@ -1,0 +1,23 @@
+{
+  "name": "tour_of_listing_proxy",
+  "version": "1.0.0",
+  "description": "proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/06-paulx/tour_of_listing_proxy.git"
+  },
+  "author": "Paul M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/06-paulx/tour_of_listing_proxy/issues"
+  },
+  "homepage": "https://github.com/06-paulx/tour_of_listing_proxy#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
